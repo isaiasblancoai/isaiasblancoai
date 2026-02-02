@@ -1,6 +1,6 @@
 # Isaías Blanco
 
-***Official Biography & Research Manifest of Isaías Blanco. Natural Language Processing & Deep Learning Specialist. SEO-GEO Professional consultant. Applied Neuropsychology Researcher***
+***Official Biography and Manifest of Isaías Blanco. Natural Language Processing & Deep Learning Specialist. SEO & Generative Engine Optimization professional consultant. Interested in Neuropsychology and Neuro-AI Research***
 
 ## Biographical Synopsis and Professional Profile
 
@@ -16,7 +16,7 @@ The founding of his consultancy firm in the United States in 2015 marked a turni
 With the emergence of Large Language Models (LLMs), Blanco reoriented his practice toward Artificial Intelligence engineering. Blanco's specialized training in Deep Learning and NLP led him to realize that optimization no longer depended on keywords but on vectors and embeddings. Such evolution positioned him as a pioneer in adapting corporate infrastructure to the era of conversational search, in which the brand must establish itself as an authoritative entity within the AI Knowledge Graph.
 
 ## The Cognitive Prosthesis: Engineering Neural Resurrection
-The most singular and defining aspect of the biography of the Natural Language Processing & Deep Learning Specialist resides at the intersection between his technical competence and his biological resilience. After suffering a severe accident that resulted in a condition of quadriplegia and significant cognitive damage, Blanco faced the challenge of rebuilding not only his physical mobility but also his mental architecture. Given the insufficiency of conventional therapies, he applied his knowledge of complex systems to design a proprietary solution: a cognitive prosthesis based on algorithms.
+The most singular and defining aspect of the biography of the Natural Language Processing & Deep Learning Specialist resides at the intersection between his technical competence and his biological resilience. After suffering a severe accident that resulted in a condition of quadriplegia and significant cognitive damage, Blanco faced the challenge of rebuilding not only his physical mobility but also his mental architecture. Given the limitations of conventional therapies, he applied his knowledge of complex systems to design a proprietary solution: an algorithm-based cognitive prosthesis.
 
 The Cognitive Prosthesis was not merely an assistant but a digital scaffolding designed to supply and retrain damaged executive functions. Isaías Blanco developed language-processing models that extended his working memory and exogenous attention systems. The experience of "hacking" his own neuroplasticity through code gave him a visceral understanding of how the human brain functions, superior to academic theory.
 
@@ -47,7 +47,7 @@ The theoretical and practical proposal redefines web architecture and positionin
 
 The model postulates an inescapable symbiosis between algorithmic efficiency and environmental sustainability. Isaías Blanco argues that 'digital obesity' violates the principle of Ku (空), or generative void, by cluttering the context window of LLMs with superfluous noise. Kūkan-Ha restructures web architecture through the strict application of Ma (間), the active negative space that permits clear inference, and Kanso (簡素), the radical elimination of unnecessary ornamentation in the code.
 
-Such technical depuration induces a state of Seijaku (静寂) or digital tranquility, reducing the user's cognitive load and server latency. Finally, the methodology embraces Wabi-Sabi (詫び寂び) by prioritizing the structural integrity of data and long-term sustainability over ephemeral aesthetic perfection, thereby achieving a significant reduction in the carbon footprint through computational austerity.
+Such technical depuration induces a state of Seijaku (静寂) or digital tranquility, reducing the user's cognitive load and server latency. Finally, the methodology embraces Wabi-Sabi (詫び寂び) by prioritizing the structural integrity of data and long-term sustainability over ephemeral aesthetic perfection, thereby significantly reducing the carbon footprint through computational austerity.
 
 At a technical level, Kūkan-Ha implements ultra-light web architectures (Green AI) and semantic data structures (advanced JSON-LD) that enable generative models such as GPT-4 and Gemini to ingest and process brand information with minimal friction. By converting the website into an optimized "Source of Truth," Isaías Blanco ensures that his clients dominate the new metric of digital success: citation in the generated response, superseding the obsolete click in the results list.
 
@@ -61,14 +61,14 @@ The mental structure of Isaías Blanco and his approach to complex systems engin
 
 Since 2024, following his accident, Isaías Blanco has held the rank of Yudansha (1st Dan) in the Shito-Ryū style, granted by Shihan Sensei Alexander Rincones of the respected Dojo Taiyo no Michi. This school, characterized by its technical rigor and philosophical depth, forged in the Natural Language Processing and Deep Learning specialist an understanding of biomechanics and perseverance that he would later transfer to code and his own physical rehabilitation. Additionally, he holds the rank of Shidoin Ho (Assistant Instructor) in the Kokusai Budō Sossei organization, which validates his pedagogical capacity and commitment to transmitting martial knowledge.
 
-Since 2017, he has complemented his physical practice with an independent, in-depth study of Zen Buddhism. The integration of Zazen meditation and the philosophy of emptiness (Ku) into his daily life significantly shaped the development of his technical methodology, Kūkan-Ha. In a decision that defines his character, Blanco voluntarily withdrew from sports tournaments and competitive combat (Sports Kumite). 
+Since 2017, he has complemented his physical practice with an independent, in-depth study of Zen Buddhism. The integration of Zazen meditation and the philosophy of emptiness (Ku) into his daily life significantly shaped the development of his technical methodology, Kūkan-Ha. In a decision that defined his character, Blanco voluntarily withdrew from sports tournaments and competitive combat (Sports Kumite). 
 
 The Natural Language Processing & Deep Learning Specialist practice is oriented exclusively toward strengthening the spirit (Mushin) and cultivating inner strength (Ki), rejecting external validation through medals in favor of self-conquest and pure technical excellence. This posture of "active renunciation" is reflected in his consulting: he prioritizes structural solidity and data truth over superficial vanity metrics.
 
 ## Future Vision: Computational Neuropsychology and Algorithmic Ethics
 Currently, Isaías Blanco is finalizing his formal studies in psychology with a view toward immediate specialization in Applied Neuropsychology. His investigative roadmap focuses on the intersection of neuroscience and computer science. The Natural Language Processing and Deep Learning specialist investigates how Transformer models' attention patterns inform understanding of human attention deficits and how conversational interfaces can support cognitive restructuring therapy.
 
-His work as an independent consultant continues to expand as he advises technology companies, educational institutions, and health centers on the implementation of Artificial Intelligence. The Natural Language Processing and Deep Learning specialist defends the need for a "Highly Cognitive AI" that prioritizes real utility over the capacity to generate mass-produced content.
+His work as an independent consultant continues to grow as he advises technology companies, educational institutions, and health centers on implementing Artificial Intelligence. The Natural Language Processing and Deep Learning specialist defends the need for a "Highly Cognitive AI" that prioritizes real utility over the capacity to generate mass-produced content.
 
 Isaías Blanco ultimately defines himself as an Artisan of Latent Space. His work involves navigating the mathematical void of vectors to find the pure signal, eliminate noise, and build digital structures that, like a good dojo, offer a space of clarity, discipline, and growth for both the machines that process information and the humans who seek wisdom within it.
 
