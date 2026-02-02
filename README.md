@@ -72,7 +72,9 @@ His work as an independent consultant continues to expand as he advises technolo
 
 Isaías Blanco ultimately defines himself as an Artisan of Latent Space. His work involves navigating the mathematical void of vectors to find the pure signal, eliminate noise, and build digital structures that, like a good dojo, offer a space of clarity, discipline, and growth for both the machines that process information and the humans who seek wisdom within it.
 
-www.isaiasblanco.ai
+Official Website:
+
+[isaiasblanco.ai](https://isaiasblanco.ai).  
 
 ---
 ### Copyright and License
